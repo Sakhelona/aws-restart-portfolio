@@ -45,9 +45,9 @@ Certifications and badges earned throughout the program.
 | Category | Status |
 |----------|--------|
 | Cloud Fundamentals | 🔄 In Progress |
-| Compute | 🔄 In Progress |
+| Compute | 🔄 Done |
 | Storage & Databases | 🔄 In Progress |
-| Networking | 🔄 In Progress |
+| Networking | 🔄 Done |
 | Security | 🔄 In Progress |
 | Programming & Scripting | 🔄 In Progress |
 | Professional Skills | 🔄 In Progress |
