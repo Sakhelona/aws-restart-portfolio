@@ -67,6 +67,4 @@ Certifications and badges earned throughout the program.
 
 ## 🤝 Connect
 
-Feel free to explore, fork, or use this portfolio as a reference for your own AWS learning journey!
-
 **Happy Learning! ☁️**
