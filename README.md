@@ -51,3 +51,27 @@ This portfolio demonstrates my practical experience with AWS services, cloud arc
 
 ## 📂 Repository Structure
 
+---
+
+## 🎯 Purpose of This Repository
+
+- Document hands-on AWS labs
+- Track my technical growth
+- Showcase practical cloud skills
+- Build a professional cloud portfolio
+- Support job applications in Cloud / DevOps / IT Support roles
+
+---
+
+## 🚀 Career Objective
+
+Seeking entry-level roles in:
+- Cloud Engineering
+- Cloud Support
+- Junior DevOps
+- IT Infrastructure
+
+---
+
+📌 This repository is continuously updated as I grow in my cloud journey.
+
