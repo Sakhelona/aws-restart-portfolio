@@ -5,6 +5,8 @@ In this lab, I deployed an EC2 instance to host a simple web server and enabled 
 To simulate scaling in a real-world environment, I resized the EC2 instance to handle increased workloads and verified termination protection before safely terminating the instance at the end of the lab.
 
 Task 1: Launching your EC2 instance
+<img width="616" height="454" alt="image" src="https://github.com/user-attachments/assets/456c7e8d-756f-4197-9019-21790f4d06c4" />
+
 
 
 
